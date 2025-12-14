@@ -58,7 +58,9 @@ i18n
                     contactInputSubject4: 'Other',
                     contactInputMessage: 'Your message',
                     contactInputMessagePlaceholder: "I'd like to chat about...",
-                    contactBtn: 'Send'
+                    contactBtn: 'Send',
+                    ariaLabelLinkedin: "Visit Valentina Belén Sanchez’s LinkedIn profile",
+                    ariaLabelGithub: "Visit Valentina Belén Sanchez’s GitHub profile",
                 }
             },
             es: {
@@ -109,7 +111,9 @@ i18n
                     contactInputSubject4: 'Otro',
                     contactInputMessage: 'Tu Mensaje',
                     contactInputMessagePlaceholder: 'Me gustaría hablar sobre...',
-                    contactBtn: 'Enviar'
+                    contactBtn: 'Enviar',
+                    ariaLabelLinkedin: "Visitar el perfil de LinkedIn de Valentina Belén Sanchez",
+                    ariaLabelGithub: "Visitar el perfil de GitHub de Valentina Belén Sanchez",
                 }
             }
         }
